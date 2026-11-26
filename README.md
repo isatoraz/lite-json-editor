@@ -73,3 +73,7 @@ If you want to modify any of those values pass a formatting object containing `k
     <LiteJsonEditor v-model="value" :formatting="{ 'number': '#e3e3e3' }" />
 </template>
 ```
+
+## Note
+
+This line was added from ripen to test opening a pull request.
